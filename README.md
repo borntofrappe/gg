@@ -7,3 +7,7 @@ A pico-8 shmup created with [pico-8 education edition](https://www.pico-8-edu.co
 ## pico-adventure
 
 An exceedingly small three-level game to pick up a sword and defeat the enemy/enemies roaming the makeshift room. Created with [pico-8 education edition](https://www.pico-8-edu.com/).
+
+## fleeting-love
+
+[pico-adventure](#pico-adventure) recreated with the open-source framework [LÖVE](https://love2d.org/).
